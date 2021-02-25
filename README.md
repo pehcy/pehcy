@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm CheeYung
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zypeh&hide=html,css,emacs,vim%20lisp,go&layout=compact&langs_count=10" alt="Github Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zypeh&hide=html,css,emacs,vue,c,c++%20lisp,go&layout=compact&langs_count=10" alt="Github Stats" />
 
 <!--
 **pehcy/pehcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

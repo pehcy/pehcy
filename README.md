@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm CheeYung
 
-I'm a full-stack NodeJS engineer in Kuala Lumpur.
+I'm a software engineer in Kuala Lumpur.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=html,css,emacs,Makefile,Shell,dockerfile%20lisp,go&layout=compact&langs_count=10" alt="Github Stats" />
 

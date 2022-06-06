@@ -3,6 +3,10 @@
 I'm a software engineer in Kuala Lumpur.
 
 ```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+```md
 [[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=shell,html,css,vim,emacs,Roff,Dockerfile,Makefile%20lisp,go&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 ```
 

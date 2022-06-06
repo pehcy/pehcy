@@ -4,8 +4,6 @@ I'm a software engineer in Kuala Lumpur.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=c,shell,html,css,vim,emacs,Roff&layout=compact&count_private=true&show_icons=true&bg_color=30,1e88e5,4dd0e1&title_color=fff&text_color=fff" />
 
-![](./raccoon.gif)
-
 <!--
 **pehcy/pehcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

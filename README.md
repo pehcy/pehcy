@@ -3,7 +3,7 @@
 I'm a software engineer in Kuala Lumpur.
 
 <img align="center" alt="Github Stats">
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=shell,html,css,vim,emacs,Roff,Dockerfile,Makefile%20lisp,go&layout=compact&langs_count=12)
+[[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=shell,html,css,vim,emacs,Roff,Dockerfile,Makefile%20lisp,go&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 <img/>
 
 <!--

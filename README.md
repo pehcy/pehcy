@@ -2,7 +2,7 @@
 
 I'm a software engineer in Kuala Lumpur.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=html,css,emacs,Makefile,Shell,dockerfile%20lisp,go&layout=compact&langs_count=10" alt="Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=javascript,typescript,haskell,rust,dockerfile%20lisp,go&layout=compact&langs_count=10" alt="Github Stats" />
 
 <!--
 **pehcy/pehcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

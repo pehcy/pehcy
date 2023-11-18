@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm CheeYung
 
 I'm a software engineer of Infovista, based in Kuala Lumpur. 
-I mainly interested in Mathematics, Statistics and Deep Learning.
+I mainly interested in Mathematics, Web Development and Machine Learning.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehcy&hide=c,shell,html,css,vim,emacs,Roff,jupyter%20notebook&layout=compact&count_private=true&show_icons=true" />
 

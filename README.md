@@ -1,4 +1,4 @@
-### Hi there 👋, I'm CheeYung
+### Hi there 👋
 
 I'm a software engineer in networking, based in Kuala Lumpur. 
 I mainly interested in Mathematics, Web Development and Machine Learning.
